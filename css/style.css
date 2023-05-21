@@ -70,7 +70,7 @@ body {
     text-decoration: none;
  }
 
-.wordsbar {
+.wordssbar {
     color: #0a8294;
     background-color: transparent;
     text-decoration: none;
@@ -138,18 +138,21 @@ a:hover .item {
 }
 
 .location {
-    height: 400px;
+    height: 350px;
     width: auto;
+    border-radius: 20px;
 }
 
 .musicvibes {
     height: 435px;
     width: auto;
+    border-radius: 20px;
 }
 
 .bottles {
     height: 490px;
     width: auto;
+    border-radius: 20px;
 }
 
 .logocolor {
